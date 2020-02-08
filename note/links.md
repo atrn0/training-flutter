@@ -1,6 +1,6 @@
 # Links
 
-## Architechture
+## Architecture
 
 - [Flutter の実践導入で用いる Bloc Pattern の全体像と押さえておくポイント](https://note.com/yamarkz/n/n7f9106e53179)
 - [【Dart/Flutter】導入した BLoC パターンアーキテクチャについて全体像をまとめてみた](https://qiita.com/arthur_foreign/items/4b1bf1892439780c4690)
